@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/12/04 19:32:58.000.260,=C:\Users\SONY NS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/10 09:19:13.000.144,=C:\Users\SONY NS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/28 14:15:26.000.541,=C:\Users\SONY NS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/28 14:19:05.000.969,=C:\Users\SONY NS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/28 14:23:55.000.513,=C:\Users\SONY NS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/06 20:20:21.000.180,=C:\Users\SONY NS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/06 20:25:37.000.287,=C:\Users\SONY NS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/21 16:11:33.000.806,=C:\Users\SONY NS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/21 16:11:55.000.622,=C:\Users\SONY NS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/21 20:00:19.000.355,=C:\Users\SONY NS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/22 09:33:30.000.009,=C:\Users\SONY NS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/10 12:49:31.000.850,=C:\Users\SONY NS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/16 10:05:10.000.431,=C:\Users\SONY NS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/15 09:26:56.000.717,=C:\Users\SONY NS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/21 13:07:34.000.590,=C:\Users\SONY NS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/21 20:01:11.000.574,=C:\Users\SONY NS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/20 19:37:19.000.613,=C:\Users\SONY NS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/20 19:39:58.000.701,=E:\Project\2. Sistem Parkir\Module\Libs\BluetoothPrinter\SunmiV1\Sunmi.Bluetooth.Printer.pas</Transaction>
+    <Transaction>2020/04/20 19:45:53.000.140,C:\Users\SONY NS\Documents\Embarcadero\Studio\Projects\Unit1.fmx=E:\Project\2. Sistem Parkir\Module\Libs\BluetoothPrinter\SunmiV1\Demo\Unit1.fmx</Transaction>
+    <Transaction>2020/04/20 19:45:53.000.140,C:\Users\SONY NS\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Project\2. Sistem Parkir\Module\Libs\BluetoothPrinter\SunmiV1\Demo\Unit1.pas</Transaction>
+    <Transaction>2020/04/20 19:46:00.000.904,C:\Users\SONY NS\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Project\2. Sistem Parkir\Module\Libs\BluetoothPrinter\SunmiV1\SunmiPrinterDemo.dproj</Transaction>
+    <Transaction>2020/04/20 19:53:07.000.385,=E:\Project\2. Sistem Parkir\Module\Libs\BluetoothPrinter\SunmiV1\Unit2.pas</Transaction>
+    <Transaction>2020/04/20 19:53:17.000.447,E:\Project\2. Sistem Parkir\Module\Libs\BluetoothPrinter\SunmiV1\Unit2.pas=E:\Project\2. Sistem Parkir\Module\Libs\BluetoothPrinter\SunmiV1\Sunmi.ESC.Utils.pas</Transaction>
+    <Transaction>2020/05/02 12:37:31.000.593,E:\Project\2. Sistem Parkir\Module\Libs\BluetoothPrinter\SunmiV1\Demo\UMain.pas=E:\Project\2. Sistem Parkir\Module\Libs\BluetoothPrinter\SunmiV1\Demo\Unit1.pas</Transaction>
+    <Transaction>2020/05/02 12:37:31.000.593,E:\Project\2. Sistem Parkir\Module\Libs\BluetoothPrinter\SunmiV1\Demo\UMain.fmx=E:\Project\2. Sistem Parkir\Module\Libs\BluetoothPrinter\SunmiV1\Demo\Unit1.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="XE7"/>
+	</ActiveMobileDevice>
+</BorlandProject>
